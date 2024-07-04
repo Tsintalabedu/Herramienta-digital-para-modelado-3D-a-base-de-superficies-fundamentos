@@ -19,18 +19,6 @@
 
 ---
 
-#### Introducción a la Computación Gráfica
-
-Antes de adentrarnos en el uso de SketchUp, es importante entender cómo la computadora lee y representa datos geométricos en un mundo digital. La computación gráfica se basa en la capacidad de la computadora para procesar y representar datos geométricos complejos mediante cálculos matemáticos precisos.
-
-- **Representación Geométrica**: Las computadoras utilizan coordenadas y vectores para representar objetos en un espacio tridimensional. Cada punto, línea y superficie está definido por coordenadas específicas en el espacio (x, y, z).
-- **Memoria y Procesamiento**: La representación de estos datos requiere una considerable cantidad de memoria y capacidad de procesamiento. Las computadoras deben gestionar eficientemente estos recursos para renderizar modelos complejos en tiempo real.
-- **Cálculos Matemáticos**: Para manipular y transformar estos objetos en el espacio 3D, las computadoras realizan cálculos matemáticos complejos. Esto incluye transformaciones geométricas como traslación, rotación y escalado, así como cálculos de iluminación y renderizado.
-
-Esta capacidad para manejar y representar datos geométricos sin limitaciones permite a las herramientas de modelado 3D, como SketchUp, crear mundos digitales detallados y precisos. Sin embargo, siempre hay que considerar las limitaciones de hardware y la optimización de los modelos para garantizar un rendimiento eficiente.
-
----
-
 #### Estructura del Diplomado
 
 **Duración**: 5 semanas  
