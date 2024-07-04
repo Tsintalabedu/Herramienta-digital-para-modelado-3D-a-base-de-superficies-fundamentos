@@ -1,4 +1,4 @@
-### Herramienta Digital para Modelado 3D a Base de Superficies - Fundamentos SketchUp
+### Herramienta gigital para modelado 3D a base de superficies - Fundamentos SketchUp
 
 ---
 
