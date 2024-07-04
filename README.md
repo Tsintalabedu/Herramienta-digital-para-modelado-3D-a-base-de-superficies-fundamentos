@@ -1,4 +1,4 @@
-### Presentación del Diplomado: Herramienta Digital para Modelado 3D a Base de Superficies - Fundamentos SketchUp
+### Herramienta Digital para Modelado 3D a Base de Superficies - Fundamentos SketchUp
 
 ---
 
