@@ -138,12 +138,16 @@ Este diplomado es una excelente oportunidad para desarrollar habilidades en mode
 ---
 
 ¿Tienen alguna pregunta antes de empezar?
+
 Comunicate al 22-88-39-89-92
+
 o por whatsapp [aquí](https://wa.me/522288398992?text=Hola%20me%20gustaría%20obtener%20más%20información%20sobre%20tus%20servicios)
 
 #### Costo para profesionales
 El costo para profesionales es $2450 mxn: [Pago profesionales](https://mpago.la/1rKyZAN)
 #### Costo para estudiantes
-Pre requisitos
+**Pre requisitos**
+
 Enviar escaneo de algun documento oficial que compruebe que estas inscirto en alguna institución como estudiante del año actual 2024
+
 El costo para estudiantes es $1450 mxn: [Pago estudiantes](https://mpago.la/2KmeXD4)
