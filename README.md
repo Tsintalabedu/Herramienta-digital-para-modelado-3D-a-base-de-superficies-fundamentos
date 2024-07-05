@@ -145,16 +145,33 @@ o por whatsapp [aquí](https://wa.me/522288398992?text=Hola%20me%20gustaría%20o
 
 ---
 
+#### Paquete incluye:
+
+- Correo gmail con tu matrícula generada en el curso
+- Repositorio de materiales y componentes
+- Bibliografía del curso digitales
+- Sesiones personalizadas
+- Grabación de las clases
+- Diploma firmado por instructor certificado por SEP-Conocer con valor curricular
+
+
 #### Costo para profesionales
-El costo para profesionales es $2450 mxn: [Pago profesionales](https://mpago.la/1rKyZAN)
+El costo para profesionales es $2,450 mxn: [Pago profesionales](https://mpago.la/1rKyZAN)
 #### Costo para estudiantes
 **Pre requisitos**
 
 Enviar escaneo de algun documento oficial que compruebe que estas inscirto en alguna institución como estudiante del año actual 2024
 
-El costo para estudiantes es $1450 mxn: [Pago estudiantes](https://mpago.la/2KmeXD4)
+El costo para estudiantes es $1,450 mxn: [Pago estudiantes](https://mpago.la/2KmeXD4)
 
 ---
 
-#### Inscribite aqui
+### Inscribite aqui
 
+Completa el formulario [aquí](https://forms.gle/HfPapjPyp13YU57H7)
+
+---
+
+### Curricula del instructor 
+
+Revisa la trayectoria del instructor [aquí](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta)
