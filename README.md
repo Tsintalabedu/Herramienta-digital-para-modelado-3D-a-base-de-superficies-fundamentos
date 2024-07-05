@@ -38,7 +38,7 @@
     - **Vectores y Coordenadas**: Cómo SketchUp utiliza vectores y coordenadas para definir objetos en el espacio 3D.
     - **Mallas y Superficies**: La estructura interna de las mallas y superficies en SketchUp.
     - **Optimización de Datos**: Técnicas que utiliza SketchUp para optimizar el uso de memoria y procesamiento.
-- **Práctica Supervisada** (3 horas):
+- **Práctica Supervisada** (1 horas):
   - Ejercicios para familiarizarse con las herramientas de dibujo.
   - Crear y modificar formas simples.
 - **Tarea**:
@@ -52,7 +52,7 @@
   - Uso de herramientas de selección y transformación.
   - Creación y modificación de formas básicas.
   - Organización del modelo con capas y etiquetas.
-- **Práctica Supervisada** (3 horas):
+- **Práctica Supervisada** (1 horas):
   - Ejercicios de creación de formas complejas combinando herramientas básicas.
   - Organizar un modelo utilizando capas y etiquetas.
 - **Tarea**:
@@ -66,7 +66,7 @@
   - Diferencias entre componentes y grupos.
   - Cómo crear y gestionar componentes reutilizables.
   - Importación y exportación de modelos.
-- **Práctica Supervisada** (3 horas):
+- **Práctica Supervisada** (1 horas):
   - Ejercicios para crear componentes y grupos.
   - Reutilizar componentes en diferentes proyectos.
 - **Tarea**:
@@ -80,7 +80,7 @@
   - Introducción a los materiales y texturas.
   - Aplicar y editar materiales.
   - Uso de estilos visuales básicos.
-- **Práctica Supervisada** (3 horas):
+- **Práctica Supervisada** (1 horas):
   - Ejercicios para aplicar texturas y materiales a los modelos.
   - Experimentar con diferentes estilos visuales.
 - **Tarea**:
@@ -94,7 +94,7 @@
   - Métodos de exportación de modelos en diferentes formatos.
   - Preparación de presentaciones efectivas.
   - Técnicas avanzadas de renderizado y animación básica.
-- **Práctica Supervisada** (3 horas):
+- **Práctica Supervisada** (1 horas):
   - Ejercicios para exportar y presentar modelos.
   - Crear una presentación final de un proyecto.
 - **Tarea Final**:
@@ -107,6 +107,7 @@
 - **Libros Recomendados**:
   - "SketchUp for Dummies" por Aidan Chopra y Rebecca Huehls.
   - "SketchUp Workflow for Architecture" por Michael Brightman.
+  - "Architectural Geometry" por Helmut Pottman, Andreas Asperl, Michael Hofer, Axel Kilian.
 - **Recursos en Línea**:
   - [SketchUp Official Website](https://www.sketchup.com/)
   - [SketchUp Campus](https://learn.sketchup.com/)
