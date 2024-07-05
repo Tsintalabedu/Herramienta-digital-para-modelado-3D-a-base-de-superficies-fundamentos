@@ -154,10 +154,15 @@ o por whatsapp [aquí](https://wa.me/522288398992?text=Hola%20me%20gustaría%20o
 - Grabación de las clases
 - Diploma firmado por instructor certificado por SEP-Conocer con valor curricular
 
+---
 
 #### Costo para profesionales
 El costo para profesionales es $2,450 mxn: [Pago profesionales](https://mpago.la/1rKyZAN)
+
+---
+
 #### Costo para estudiantes
+
 **Pre requisitos**
 
 Enviar escaneo de algun documento oficial que compruebe que estas inscirto en alguna institución como estudiante del año actual 2024
