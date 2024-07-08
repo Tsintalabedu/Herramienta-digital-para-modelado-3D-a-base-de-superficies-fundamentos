@@ -148,16 +148,16 @@ o por whatsapp [aquí](https://wa.me/522288398992?text=Hola%20me%20gustaría%20o
 | Descripción | Enlace de pago |
 |-------------|----------------|
 | El costo para estudiantes es $1,500 MXN | [Pago estudiantes](https://mpago.la/2KmeXD4) |
-| El costo para profesionales es $3,000 MXN | [Pago profesionales](https://mpago.la/2KmeXD4) |
+| El costo para profesionales es $3,000 MXN | [Pago profesionales](https://mpago.la/1rKyZAN) |
 
 ---
 
-### Inscribite aqui
+### Inscríbete aqui
 
-Completa el formulario [aquí](https://forms.gle/HfPapjPyp13YU57H7)
+Completa el formulario [formulario](https://forms.gle/HfPapjPyp13YU57H7)
 
 ---
 
 ### Curricula del instructor 
 
-Revisa la trayectoria del instructor [aquí](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta)
+Revisa la trayectoria del instructor [CVU](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta)
