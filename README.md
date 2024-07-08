@@ -143,24 +143,12 @@ o por whatsapp [aquí](https://wa.me/522288398992?text=Hola%20me%20gustaría%20o
 
 ---
 
-#### Costo para profesionales
-El costo para profesionales es $2,450 mxn: [Pago profesionales](https://mpago.la/1rKyZAN)
+### Costos
 
----
-
-#### Costo para estudiantes
-
-**Pre requisitos**
-
-Enviar escaneo de algun documento oficial que compruebe que estas inscirto en alguna institución como estudiante del año actual 2024
-
-El costo para estudiantes es $1,450 mxn: [Pago estudiantes](https://mpago.la/2KmeXD4)
-
-<form action="https://www.mercadopago.com.mx/integrations/v1/web-payment-checkout.js" method="GET">
-  <input type="hidden" name="preference-id" value="261207803-f420eecb-99d9-45d4-a779-e2b803565a5f">
-  <input type="hidden" name="source" value="button">
-  <input type="submit" value="Pagar con MercadoPago">
-</form>
+| Descripción | Enlace de pago |
+|-------------|----------------|
+| El costo para estudiantes es $1,500 MXN | [Pago estudiantes](https://mpago.la/2KmeXD4) |
+| El costo para profesionales es $3,000 MXN | [Pago profesionales](https://mpago.la/2KmeXD4) |
 
 ---
 
