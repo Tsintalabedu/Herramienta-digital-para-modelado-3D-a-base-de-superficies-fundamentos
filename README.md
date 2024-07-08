@@ -156,6 +156,10 @@ Enviar escaneo de algun documento oficial que compruebe que estas inscirto en al
 
 El costo para estudiantes es $1,450 mxn: [Pago estudiantes](https://mpago.la/2KmeXD4)
 
+<script src="https://www.mercadopago.com.mx/integrations/v1/web-payment-checkout.js"
+data-preference-id="261207803-f420eecb-99d9-45d4-a779-e2b803565a5f" data-source="button">
+</script>
+
 ---
 
 ### Inscribite aqui
