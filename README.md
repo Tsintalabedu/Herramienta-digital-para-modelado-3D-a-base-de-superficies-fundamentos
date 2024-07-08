@@ -1,6 +1,24 @@
 ### Herramientas digitales para modelado 3D a base de superficies - Fundamentos SketchUp
 
-![_105345cc-866f-44d0-9f85-9c679d3e3e13](https://github.com/Tsintalabedu/Herramienta-digital-para-modelado-3D-a-base-de-superficies-fundamentos/assets/174733283/acd3de9d-9318-4d5a-acb8-a8e8a73372dc)
+
+<style>
+  .image-crop {
+    width: 200px; /* Ancho del área visible */
+    height: 200px; /* Altura del área visible */
+    overflow: hidden; /* Oculta el resto de la imagen */
+    position: relative;
+  }
+
+  .image-crop img {
+    position: absolute;
+    top: -50px; /* Ajusta para mostrar la parte deseada de la imagen */
+    left: -50px; /* Ajusta para mostrar la parte deseada de la imagen */
+  }
+</style>
+
+<div class="image-crop">
+  <img src="https://github.com/Tsintalabedu/Herramienta-digital-para-modelado-3D-a-base-de-superficies-fundamentos/assets/174733283/acd3de9d-9318-4d5a-acb8-a8e8a73372dc" alt="Descripción de la imagen">
+</div>
 
 ---
 
