@@ -102,22 +102,9 @@
 
 ---
 
-#### Recursos Adicionales
-
-- **Libros Recomendados**:
-  - "SketchUp for Dummies" por Aidan Chopra y Rebecca Huehls.
-  - "SketchUp Workflow for Architecture" por Michael Brightman.
-  - "Architectural Geometry" por Helmut Pottman, Andreas Asperl, Michael Hofer, Axel Kilian.
-- **Recursos en Línea**:
-  - [SketchUp Official Website](https://www.sketchup.com/)
-  - [SketchUp Campus](https://learn.sketchup.com/)
-  - [Canal de YouTube: The SketchUp Essentials](https://www.youtube.com/user/SketchUpEssentials)
-
----
-
 #### Evaluación y Certificación
 
-Al finalizar el diplomado, los estudiantes deberán completar un proyecto final que demuestre su comprensión y habilidades adquiridas. Los proyectos serán evaluados y los estudiantes recibirán un certificado de finalización del diplomado.
+Al finalizar el diplomado, los estudiantes deberán completar un proyecto final que demuestre su comprensión y habilidades adquiridas. Los proyectos serán evaluados y los estudiantes recibirán un diploma con valor curricular firmado por el instructor.
 
 ---
 
