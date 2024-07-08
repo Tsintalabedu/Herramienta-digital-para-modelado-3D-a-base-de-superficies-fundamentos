@@ -128,7 +128,7 @@ Este diplomado es una excelente oportunidad para desarrollar habilidades en mode
 
 Comunicate al 22-88-39-89-92
 
-o por whatsapp [aquí](https://wa.me/522288398992?text=Hola%20me%20gustaría%20obtener%20más%20información%20sobre%20tus%20servicios)
+o por [whatsapp](https://wa.me/522288398992?text=Hola%20me%20gustaría%20obtener%20más%20información%20sobre%20tus%20servicios)
 
 ---
 
