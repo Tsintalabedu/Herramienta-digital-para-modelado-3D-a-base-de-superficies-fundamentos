@@ -107,6 +107,14 @@
 Al finalizar el diplomado, los estudiantes deberán completar un proyecto final que demuestre su comprensión y habilidades adquiridas. Los proyectos serán evaluados y los estudiantes recibirán un diploma con valor curricular firmado por el instructor.
 
 ---
+#### Dirigido a
+Este diplomado está dirigido a:
+
+- Estudiantes y Profesionales de Arquitectura y Diseño: Que deseen mejorar sus habilidades en modelado 3D.
+- Ingenieros y Constructores: Que busquen una herramienta para visualizar y presentar sus proyectos.
+- Educadores y Estudiantes de Tecnología: Interesados en aprender sobre modelado 3D y su aplicación práctica.
+- Aficionados al Modelado 3D: Que quieran explorar nuevas habilidades y proyectos creativos.
+- Estudiantes de preparatoria: Que tengan interes por el modelado 3D y la geometría.
 
 #### Preguntas y Respuestas
 
