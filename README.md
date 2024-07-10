@@ -102,7 +102,7 @@
 
 ---
 
-#### Evaluación y Certificación
+#### Evaluación y diploma
 
 Al finalizar el diplomado, los estudiantes deberán completar un proyecto final que demuestre su comprensión y habilidades adquiridas. Los proyectos serán evaluados y los estudiantes recibirán un diploma con valor curricular firmado por el instructor.
 
